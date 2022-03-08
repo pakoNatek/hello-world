@@ -1,2 +1,7 @@
 # hello-world
-Pues eso, un proyecto de inicio
+
+## Introducción
+
+*Github* es un software para el **control** de versiones.
+
+
